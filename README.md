@@ -1,3 +1,7 @@
+Used in https://github.com/FixMyBerlin/fixmy.frontend/blob/master/package.json#L119
+
+---
+
 # deckgl-typings
 TypeScript declaration files for [deck.gl](https://deck.gl/#/documentation/)
 
